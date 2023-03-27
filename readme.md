@@ -24,4 +24,5 @@ Informed search
     -  a is algorithm you want to run (BFS, DFS, UCS, AStar)
     -  b is starting position  
     -  c is goal position
-  
+  ## Demo
+  - https://www.youtube.com/watch?v=4f7ubTI8c2U&feature=youtu.be
